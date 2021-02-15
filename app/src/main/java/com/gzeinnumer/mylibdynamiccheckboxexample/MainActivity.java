@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.gzeinnumer.mylibdynamiccheckbox.DynamicCheckBox;
+import com.gzeinnumer.dc.DynamicCheckBox;
 
 import java.util.ArrayList;
 

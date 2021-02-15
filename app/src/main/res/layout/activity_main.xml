@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="Single Type" />
 
-    <com.gzeinnumer.mylibdynamiccheckbox.DynamicCheckBox
+    <com.gzeinnumer.dc.DynamicCheckBox
         android:id="@+id/dc_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -24,7 +24,7 @@
         android:layout_marginTop="32dp"
         android:text="Multi Type" />
 
-    <com.gzeinnumer.mylibdynamiccheckbox.DynamicCheckBox
+    <com.gzeinnumer.dc.DynamicCheckBox
         android:id="@+id/dc_2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
